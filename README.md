@@ -71,3 +71,6 @@
 #### ▶ Sort Rows Configuration
 ![Sort Rows - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sort%20rows%20configuration.png)
    - Sort rows fieldname Age <br>
+#### ▶ Replace Job Configuration
+![Replace Job - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/replace%20in%20string%20configuration1.png)
+   - Replace fieldname Job <br>
