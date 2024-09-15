@@ -100,7 +100,6 @@
 ## ⚙ Database Query Result SQL
 #### ▶ SQL Query Database1
 ![SQL Query Database1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query1.png)
-#### ▶ Output Query Database1
 ![SQL Query Database1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/output_sql1.png)
    - Age and Credit Cluster Based on Gender <br>
 #### ▶ SQL Query Database2
