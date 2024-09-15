@@ -66,5 +66,8 @@
 ### 👨‍💼 Application Record
 ![Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/applicationRecord.png)<br>
 #### ▶ Table Input Configuration
-![Table Input - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/csv%20input%20configuration.png))
+![Table Input - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/csv%20input%20configuration.png)
    - Importing data credit-risk csv <br>
+#### ▶ Sort Rows Configuration
+![Sort Rows - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sort%20rows%20configuration.png)
+   - Sort rows fieldname Age <br>
