@@ -61,3 +61,10 @@
 ## 🧾 Data Set Description
 *   The dataset description can be seen <a href="https://www.kaggle.com/datasets/uciml/german-credit"><b>here</b></a>.
 <br><br>
+
+## ⚙ ETL Process
+### 👨‍💼 Application Record
+![Application]()<br>
+#### ▶ Table Input Configuration
+![Table Input - Application](https://github.com/caesarmario/data-warehouse-credit-card-applicant-using-pentaho/blob/main/Screenshots/Applicant_Dimension/1%20-%20Table%20Input.png)
+   - Importing application table from OLTP. <br>
