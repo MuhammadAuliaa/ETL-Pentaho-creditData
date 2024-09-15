@@ -98,7 +98,6 @@
    - Sample data <br>
 
 ## ⚙ Database Query Result SQL
-<br><br>
 #### ▶ SQL Query Database
 ![SQL Query Database - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query.png)
    - Sample data <br>
