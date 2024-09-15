@@ -66,5 +66,5 @@
 ### 👨‍💼 Application Record
 ![Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/applicationRecord.png)<br>
 #### ▶ Table Input Configuration
-![Table Input - Application]([https://github.com/caesarmario/data-warehouse-credit-card-applicant-using-pentaho/blob/main/Screenshots/Applicant_Dimension/1%20-%20Table%20Input.png](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/csv%20input%20configuration.png))
+![Table Input - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/csv%20input%20configuration.png))
    - Importing data credit-risk csv <br>
