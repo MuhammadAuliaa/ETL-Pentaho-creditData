@@ -98,6 +98,12 @@
    - Sample data <br>
 
 ## ⚙ Database Query Result SQL
-#### ▶ SQL Query Database
-![SQL Query Database - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query.png)
-   - Sample data <br>
+#### ▶ SQL Query Database1
+![SQL Query Database1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query1.png)
+   - Age and Credit Cluster Based on Gender <br>
+#### ▶ SQL Query Database2
+![SQL Query Database2 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query2.png)
+   - Credit Analysis Based on Housing Status and Savings Account <br>
+#### ▶ SQL Query Database3
+![SQL Query Database3 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query3.png)
+   - Credit Analysis Based on the Combination of Purpose and Occupation <br>
