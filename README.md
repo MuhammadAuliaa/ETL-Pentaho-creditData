@@ -11,6 +11,7 @@
   - [ETL Process]
       - [Application Record]
       - [Database Query Result SQL]
+  - [Dashboard Visualization]
 <br>
 
 ## 🖋 About Project
@@ -25,6 +26,7 @@
 *   create table Age and Credit Cluster Based on Gender
 *   create table Credit Analysis Based on Housing Status and Savings Account
 *   create table Credit Analysis Based on the Combination of Purpose and Occupation
+*   The dashboard visualization above is presented based on credit_card data, which incorporates various content that can be visualized
 <br><br>
 
 ## 🧾 Data Set Description
@@ -79,3 +81,8 @@
 ![SQL Query Database3 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query3.png)
 ![SQL Query Database1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/output_sql3.png)
    - Credit Analysis Based on the Combination of Purpose and Occupation <br>
+
+## ⚙ Dashboard Visualization Data
+![Dashboard Visualization - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/dashboard.png)
+   - The dashboard visualization above is presented based on credit_card data, which incorporates various content that can be visualized. <br>
+
