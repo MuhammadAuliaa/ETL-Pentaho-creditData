@@ -96,3 +96,6 @@
 #### ▶ Data Result in Database
 ![Data Result - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sample_data.png)
    - Sample data <br>
+
+## ⚙ Database Query Result SQL
+<br><br>
