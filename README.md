@@ -90,5 +90,6 @@
 ![Select Values 2 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/select%20values%20configuration2.png)
    - Select any of values <br>
 #### ▶ Load Output Data Configuration2
+![Database Connection - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/database%20connection.png)
 ![Load Output Data - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/table%20output%20configuration.png)
    - Load data to Database <br>
