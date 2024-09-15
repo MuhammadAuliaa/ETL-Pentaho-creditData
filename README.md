@@ -16,31 +16,18 @@
 
 
 ## 📃 Table of Contents:
-  - [About Project](#-about-project)
-  - [Objectives](#-objectives)
-  - [Data Set Description](#-data-set-description)
-  - [Connection Configuration](#-connection-configuration)
-      - [OLTP](#-oltp-configuration)
-      - [OLAP](#-olap-configuration)
-  - [ETL Process](#-etl-process)
-      - [Application Record](#-application-record)
-      - [Credit Record](#-credit-record)
-      - [Time Dimension](#-time-dimension)
-      - [Credit Card Fact](#-credit-card-fact)
-  - [Star Schema](#-star-schema)
-  - [Before & After ETL Comparison](#-before--after-etl-comparison)
-      - [Application Record](#-application-record-1)
-      - [Credit Record](#-credit-record-1)
-      - [Time Dimension](#-time-dimension-1)
-      - [Credit Card Fact](#-credit-card-fact-1)
+  - [About Project]
+  - [Objectives]
+  - [Data Set Description]
+  - [ETL Process]
+      - [Application Record]
+      - [Database Query Result SQL]
 <br>
 
 ## 🖋 About Project
 *   This repository contains files to create data warehouse such as:
     - ETL files using Pentaho Data Integration (PDI)
-    - Codes to create OLAP (SQL)
-    - Codes to select data from OLTP (SQL)
-    - Codes to perform random testing (SQL)
+    - Query database (SQL)
 
     for credit card applicant. The dataset is provided by <a href="https://www.kaggle.com/rikdifos/credit-card-approval-prediction"><b>Seanny (rikdifos)</b></a>.<br>
 
