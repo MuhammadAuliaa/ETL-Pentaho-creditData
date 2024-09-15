@@ -104,7 +104,9 @@
    - Age and Credit Cluster Based on Gender <br>
 #### ▶ SQL Query Database2
 ![SQL Query Database2 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query2.png)
+![SQL Query Database1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/output_sql2.png)
    - Credit Analysis Based on Housing Status and Savings Account <br>
 #### ▶ SQL Query Database3
 ![SQL Query Database3 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/sql_query3.png)
+![SQL Query Database1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/output_sql3.png)
    - Credit Analysis Based on the Combination of Purpose and Occupation <br>
