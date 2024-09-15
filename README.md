@@ -59,5 +59,5 @@
 <br><br>
 
 ## 🧾 Data Set Description
-*   The dataset description can be seen <a href="https://www.kaggle.com/rikdifos/credit-card-approval-prediction/discussion/119320"><b>here</b></a>.
+*   The dataset description can be seen <a href="https://www.kaggle.com/datasets/uciml/german-credit"><b>here</b></a>.
 <br><br>
