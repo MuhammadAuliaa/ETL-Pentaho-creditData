@@ -74,3 +74,21 @@
 #### ▶ Replace Job Configuration
 ![Replace Job - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/replace%20in%20string%20configuration1.png)
    - Replace fieldname Job <br>
+#### ▶ Replace Saving & Checking Configuration
+![Replace Saving & Checking - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/replace%20in%20string%20configuration2.png)
+   - Replace fieldname saving & checking <br>
+#### ▶ Filter Rows Configuration
+![Filter Rows - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/filter%20rows%20configuration.png)
+   - Filter rows fieldname saving & checking is not null <br>
+#### ▶ Formula Configuration
+![Formula - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/formula%20idr%20configuration.png)
+   - Formula fieldname credit amount (Rp) & Duration (Day) <br>
+#### ▶ Select Values Configuration1
+![Select Values 1 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/select%20values%20configuration1.png)
+   - Remove fieldname credit amount & duration <br>
+#### ▶ Select Values Configuration2
+![Select Values 2 - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/select%20values%20configuration2.png)
+   - Select any of values <br>
+#### ▶ Load Output Data Configuration2
+![Load Output Data - Application](https://github.com/MuhammadAuliaa/etl-pentaho-credit-data/blob/main/screenshoot/table%20output%20configuration.png)
+   - Load data to Database <br>
