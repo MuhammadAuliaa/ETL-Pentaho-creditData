@@ -17,21 +17,14 @@
 *   This repository contains files to create data warehouse such as:
     - ETL files using Pentaho Data Integration (PDI)
     - Query database (SQL)
-
-    for credit card applicant. The dataset is provided by <a href="https://www.kaggle.com/rikdifos/credit-card-approval-prediction"><b>Seanny (rikdifos)</b></a>.<br>
-
-*   This project will also create:
-    - **2 dimension tables** (Applicant_Dimension and CreditRecord_Dimension), 
-    - **Time dimension** (Time_Dimension), and 
-    - **1 fact table** (CreditCard_Fact).
-
-    using PDI and Microsoft SQL Server 18.
+    - Dashboard visualization data (.xlsx)
 <br><br>
 
 ## 📌 Objectives
-*   Perform ETL using PDI for both datasets.
-*   Create time dimension using PDI.
-*   Create fact table using PDI.
+*   Perform ETL using PDI for datasets.
+*   create table Age and Credit Cluster Based on Gender
+*   create table Credit Analysis Based on Housing Status and Savings Account
+*   create table Credit Analysis Based on the Combination of Purpose and Occupation
 <br><br>
 
 ## 🧾 Data Set Description
